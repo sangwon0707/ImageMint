@@ -5,7 +5,7 @@
 
 **🌐 Live Platform**: [imagemint.net](https://imagemint.net)  
 **🛠️ Tech Stack**: Next.js 15, TypeScript, Canvas API, Tailwind CSS  
-**⏱️ 개발 기간**: 2024.12 - 2025.01 (약 4주)  
+**⏱️ 개발 기간**: 2025.07 - 2025.08 (약 2주)  
 **🤖 개발 방식**: AI Pair Programming with Claude Code
 
 ---
